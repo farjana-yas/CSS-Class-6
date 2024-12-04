@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#container{
+    background-color: rgb(51, 45, 97);
+    height: 200px;
+    width: 200px;
+    color: aliceblue;
+    margin: 20px;
+    text-align: center;
+
+   /* display: none;*/
+}
+#box{
+   background-color: rgb(218, 156, 62); 
+   width: 100px;
+   height: 100px;
+   position: sticky;
+
+}
+h1{
+    background-color: rgb(42, 47, 151);
+    color: aliceblue;
+    text-align: center;
+    margin: auto;
+    margin: 20px;
+}
+/*display,relative,absulate,position*/
