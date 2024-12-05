@@ -26,5 +26,23 @@ h1{
     text-align: center;
     margin: auto;
     margin: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#container2{
+    background-color: rgb(200, 25, 216);
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    text-align: center;
+
+}
+#box2{
+    background-color: rgb(128, 225, 232);
+    text-align: center;
+    margin: auto;
+    height: 100px;
+    width: 100px;
+    position: sticky;
+
 }
 /*display,relative,absulate,position*/
